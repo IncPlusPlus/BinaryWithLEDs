@@ -10,7 +10,7 @@ This program was built and has only been run on an Arduino Uno R3. If you encoun
 The code is very rough and so far this represents a working but unpolished product. I have been testing using different types of smoothing for inputs from a potentiometer and have let the project sit for some time.
 
 #### Make it yourself
-To make this project on your own, I will include a guide with pictures on the wiki of this repository in the near future.
+To make this project on your own, wire up LEDs and a potentiometer as configured in the code.
 
 ## Demonstration
 
